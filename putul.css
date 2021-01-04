@@ -1,0 +1,47 @@
+body {
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.heading-name {
+    color: rgb(9, 227, 243);
+}
+
+.First-part {
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+
+.First-part img {
+    width: 100%;
+}
+
+.another-heading {
+    background-color: #f0b852;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url("images/developer-portfolio/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section {
+    height: 3000px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #da9e9e, #df0f0f);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+}
