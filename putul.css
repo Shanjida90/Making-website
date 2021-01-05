@@ -104,7 +104,7 @@
             }
             
             .experiances {
-                git background-image: url(images/developer-portfolio/exp-bg.png);
+                background-image: url(images/developer-portfolio/exp-bg.png);
                 background-repeat: no-repeat;
                 background-position: left;
             }
